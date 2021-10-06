@@ -1,0 +1,1 @@
+odin-recipes is my first HTML project with The Odin Project. It's basic HTML that I'll refine throughout the tutorial. I'm optimistic that I'll learn something new and interesting!
